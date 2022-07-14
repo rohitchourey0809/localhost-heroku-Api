@@ -1,0 +1,17 @@
+[
+  {
+    "name": "rohit",
+    "team": "A",
+    "pointReview": "1"
+  },
+  {
+    "name": "prateek",
+    "team": "B",
+    "pointReview": "1"
+  },
+  {
+    "name": "rahul",
+    "team": "C",
+    "pointReview": "1"
+  }
+]
